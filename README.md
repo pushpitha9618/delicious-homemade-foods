@@ -131,7 +131,7 @@
     <h2>Our Products</h2>
     <div class="products">
         <div class="card">
-            <img src="image/darkchoco2.jpg" alt="Dark Chocolate">
+            <img src="images/darkchoco2.jpg" alt="Dark Chocolate">
             <h3>Dark Chocolate</h3>
             <p>Premium cocoa with rich and bold flavor.</p>
             <p><strong>Price:</strong> ₹199 / 250g(29-30chocolates)</p>
