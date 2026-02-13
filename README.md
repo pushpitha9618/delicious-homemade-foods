@@ -20,7 +20,6 @@
         }
         header h1 {
             font-size: 42px;
-            margin-bottom: 10px;
         }
         header p {
             font-size: 20px;
